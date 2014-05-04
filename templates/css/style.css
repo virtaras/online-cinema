@@ -1,0 +1,17 @@
+.movies .movie{
+	width:500px;
+	float:left;
+	display:inline-block;
+	background:yellow;
+	margin:10px;
+}
+.movies .movie .image{
+	width:500px;
+	height:500px;
+}
+.filters .filter .checkbox{
+	color:black;
+}
+.filters .filter .checkbox.active{
+	color:red;
+}

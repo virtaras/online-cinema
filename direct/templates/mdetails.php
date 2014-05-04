@@ -1,0 +1,1 @@
+<iframe width="100%" frameborder="0" src="index.php?t=mproductsitems&parent=<?=$_GET["id"]?>&noheader&nofooter" height="600px"></iframe>

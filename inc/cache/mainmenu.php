@@ -1,0 +1,1 @@
+<? $menuarray = array(); $menuarray['/'] = 'РайON'; $menuarray['magaziny'] = 'Магазины'; $menuarray['shema'] = 'Схема'; $menuarray['restorany'] = 'Рестораны'; $menuarray['partneram'] = 'Партнерам'; ?>
