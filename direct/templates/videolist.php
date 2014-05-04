@@ -1,1 +1,0 @@
-<iframe frameborder="0" width="600px" src="index.php?t=video&source=1&parent=<?=$_GET["id"]?>&noheader&nofooter" height="500px;"  ></iframe>
