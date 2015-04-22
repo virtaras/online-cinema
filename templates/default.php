@@ -2,3 +2,4 @@
 <?include _DIR."/templates/templ/filters.php";?>
 <div id="catalog_inner">
 </div>
+<? print_r($_SESSION); ?>
